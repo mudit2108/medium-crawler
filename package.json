@@ -1,0 +1,16 @@
+{
+  "name": "mediun-link-extractor",
+  "version": "0.0.1",
+  "description": "Extracts all the links from medium.com",
+  "main":"crawler.js",
+  "author":"Bruce Wayne",
+  "dependencies": {
+    "express": "latest",
+    "request":"latest",
+    "cheerio":"latest",
+    "url-parse": "latest",
+    "csv-write-stream": "latest",
+    "fs":"latest",
+    "async":"latest"
+  }
+}
