@@ -16,12 +16,12 @@
 ## Installing dependencies
   All the dependencies for this project are mentioned in package.json. To install these dependencies run the command from the root of the directory created after cloning this repository.
 
-*npm --install*
+`**npm --install**`
 
 ## Start the script which uses async.js
 
-*node medium_with_async.js*
+`**node medium_with_async.js**`
 
 ## Start the script which doesn't uses async.js
 
-*node medium_without_async.js*
+`**node medium_without_async.js**`
